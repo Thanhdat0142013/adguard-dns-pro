@@ -43,4 +43,4 @@ Dự án này được phát hành dưới giấy phép [MIT License](LICENSE).
 ---
 ###
 Link Chạy app web
-link is here ➡️➡️ https://maiyeuem24092012.github.io/adguard-dns-pro/
+link is here ➡️➡️ https://Thanhdat0142013.github.io/adguard-dns-pro/
